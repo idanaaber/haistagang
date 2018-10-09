@@ -22,3 +22,8 @@ git remote add origin https://github.com/idanaaber/haistagang.git
 ```
 git push -u origin master
 ```
+
+### Git commit -m "jutumärkide sisse läheb kirjeldus mitte mitmes commit see on lol"
+```
+git commit -m "siia läheb kirjeldus"
+```
